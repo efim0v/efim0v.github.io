@@ -1,4 +1,4 @@
-# efim0v.github.io
+# efimov.page
 
-My profile page at [efim0v.github.io](https://efim0v.github.io/): about me and Mizzle Studio, plus my
-open-source Mac apps [Brow](https://efim0v.github.io/brow/) and [Grove](https://efim0v.github.io/grove/).
+My profile page at [efimov.page](https://efimov.page/): about me and Mizzle Studio, plus my
+open-source Mac apps [Brow](https://efimov.page/brow/) and [Grove](https://efimov.page/grove/).
