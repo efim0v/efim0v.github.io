@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efim0v.github.io/sitemap.xml
+Sitemap: https://efim0v.github.io/brow/sitemap.xml
+Sitemap: https://efim0v.github.io/grove/sitemap.xml
